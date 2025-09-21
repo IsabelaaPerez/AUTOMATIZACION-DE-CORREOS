@@ -1,0 +1,8 @@
+Hola {empresa},
+
+Este es un correo de prueba enviado automáticamente desde nuestro sistema.
+Gracias por confiar en nosotros.
+
+Saludos,
+El equipo de pruebas
+

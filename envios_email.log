@@ -1,0 +1,10 @@
+2025-09-21 07:58:56|isabela.perez@example.com|SENT|
+2025-09-21 07:59:01|miempresa.prueba@example.com|SENT|
+2025-09-21 07:59:04|invalid-email.example.com|ERROR|Formato de email inválido
+2025-09-21 07:59:04|user@@domain.com|ERROR|Formato de email inválido
+2025-09-21 07:59:04|isabelaperezcarrasco1@gmail.com|SENT|
+2025-09-21 07:59:08|isabelaperezcarrasco1@outlook.com|SENT|
+2025-09-21 07:59:12|sofia.perez@micolegiocomfatolima.edu.co|SENT|
+2025-09-21 07:59:15|isabela.perez@cun.edu.co|SENT|
+2025-09-21 07:59:20|miempresa.prueba@example.com|ERROR|Rebote detectado en Gmail
+2025-09-21 07:59:20|isabela.perez@example.com|ERROR|Rebote detectado en Gmail
